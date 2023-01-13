@@ -17,15 +17,15 @@
         android:layout_weight="1" />
 
     <Button
-        android:id="@+id/chat"
+        android:id="@+id/accept"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Chat" />
+        android:text="Accept" />
 
     <Button
-        android:id="@+id/unfriend"
+        android:id="@+id/decline"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Unfriend" />
+        android:text="Decline" />
 
 </LinearLayout>
